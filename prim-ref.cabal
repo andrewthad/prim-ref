@@ -1,12 +1,12 @@
 name: prim-ref
-version: 0.2.2
+version: 0.1
 synopsis: Primitive byte array with type variable
 homepage: https://github.com/andrewthad/prim-array#readme
 license: BSD3
 license-file: LICENSE
 author: Andrew Martin
 maintainer: andrew.thaddeus@gmail.com
-copyright: 2017 Andrew Martin
+copyright: 2018 Andrew Martin
 category: Web
 build-type: Simple
 extra-source-files: README.md

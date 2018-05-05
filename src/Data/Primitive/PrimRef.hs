@@ -5,8 +5,7 @@
 {-# LANGUAGE Unsafe #-}
 
 -- | Note: Edward Kmett wrote everything in this module. It was sitting
---   unpackaged on github, so I took it and published it as a part of
---   this package.
+--   unpackaged on github, so I took it and published it.
 module Data.Primitive.PrimRef
   ( 
   -- * Primitive References
