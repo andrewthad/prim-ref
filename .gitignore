@@ -39,3 +39,5 @@ ex1.hs
 
 geolite-csv/data/large
 geolite-lmdb/data/large
+stack.yml
+stack.yaml
